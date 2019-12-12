@@ -207,9 +207,11 @@ nav a:hover {
 .good-stuff h3 {
   margin: 4%;
 }
-.good-stuff p {
-  margin: 4%;
-  text-align: left;
+li {
+  border: 1px solid #8bbabb;
+  padding: 2%;
+  font-size: 1.2rem;
+  color: antiquewhite;
 }
 .left-break {
   border: 1px solid #8bbabb;
@@ -250,4 +252,100 @@ nav a:hover {
 .heading hr {
   border: 1px solid #8bbabb;
   margin-top: 1.5%;
+}
+.work h3 {
+  margin-top: 80%;
+  margin-left: 30%;
+  margin-bottom: 10%;
+  font-size: 1.7rem;
+  color: #464159;
+  text-shadow: -5px -3px 5px rgba(0, 0, 0, 0.774);
+}
+.work .year-one {
+  color: #880707;
+  margin-left: 30%;
+  font-size: 1.2rem;
+}
+.work .title-one {
+  margin-left: 35%;
+  font-size: 1rem;
+  color: #464159;
+}
+.work .company-one {
+  margin-left: 35%;
+  font-size: 1.5rem;
+  color: #464159;
+}
+.work .present {
+  color: #880707;
+  margin-left: 35%;
+  font-size: 1.2rem;
+}
+.work .title-two {
+  margin-left: 35%;
+  font-size: 1rem;
+  color: #464159;
+}
+.work .company-two {
+  margin-left: 35%;
+  font-size: 1.5rem;
+  color: #464159;
+}
+.work .experience-two {
+  border: 1px solid #464159;
+  margin-left: 10%;
+  margin-right: 30%;
+}
+.work .experience-one {
+  border: 1px solid #464159;
+  margin-left: 10%;
+  margin-right: 30%;
+}
+.school h3 {
+  margin-top: 20%;
+  margin-left: 30%;
+  margin-bottom: 10%;
+  font-size: 1.7rem;
+  color: #464159;
+  text-shadow: -5px -3px 5px rgba(0, 0, 0, 0.774);
+}
+.school .class-year1 {
+  color: #880707;
+  margin-left: 30%;
+  font-size: 1.2rem;
+}
+.school .school-name1 {
+  margin-left: 35%;
+  font-size: 1.5rem;
+  color: #464159;
+}
+.school .school-break1 {
+  border: 1px solid #464159;
+  margin-left: 10%;
+  margin-right: 30%;
+}
+.school .class-year2 {
+  color: #880707;
+  margin-left: 30%;
+  font-size: 1.2rem;
+}
+.school .school-name2 {
+  margin-left: 35%;
+  font-size: 1.5rem;
+  color: #464159;
+}
+.school .school-break2 {
+  border: 1px solid #464159;
+  margin-left: 10%;
+  margin-right: 30%;
+}
+.phone-num {
+  color: #bc4873;
+}
+.git-logo {
+  border-radio: 50%;
+  width: 3%;
+}
+.git-logo .git-push {
+  color: #bc4873;
 }
