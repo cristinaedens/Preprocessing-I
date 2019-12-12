@@ -169,7 +169,7 @@ nav a:hover {
 .left-side {
   background: #464159;
   width: 30%;
-  height: 1200px;
+  padding-bottom: 10%;
 }
 .left-side h3 {
   font-size: 1.5rem;
@@ -190,10 +190,12 @@ nav a:hover {
 }
 .about h3 {
   margin: 4%;
+  font-size: 2rem;
 }
 .about p {
   margin: 4%;
   text-align: left;
+  font-size: 1.5rem;
 }
 .first-divider {
   border: 1px solid #8bbabb;
@@ -203,14 +205,16 @@ nav a:hover {
   flex-direction: column;
   width: 40%;
   margin-top: 10%;
+  margin-left: 20%;
 }
 .good-stuff h3 {
   margin: 4%;
+  font-size: 2rem;
 }
 li {
   border: 1px solid #8bbabb;
   padding: 2%;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   color: antiquewhite;
 }
 .left-break {
@@ -339,13 +343,57 @@ li {
   margin-left: 10%;
   margin-right: 30%;
 }
+.contact-me {
+  margin-left: 12%;
+}
 .phone-num {
   color: #bc4873;
+  font-size: 1.2rem;
+}
+.email-link {
+  font-size: 1.2rem;
+  color: #8b2f97;
 }
 .git-logo {
-  border-radio: 50%;
-  width: 3%;
+  width: 20%;
 }
-.git-logo .git-push {
-  color: #bc4873;
+.git-link {
+  margin-top: 5%;
+}
+.linkedin-logo {
+  width: 20%;
+}
+.information1 {
+  margin-left: 40%;
+  margin-top: 5%;
+  margin-bottom: 4%;
+}
+.school-divider {
+  border: 1px solid #464159;
+}
+.work1 {
+  border: 1px solid #464159;
+  margin-top: 4%;
+}
+.experience {
+  font-size: 1rem;
+}
+.education5 {
+  border: 1px solid #464159;
+  margin-top: 5%;
+}
+.lambdaschool1 {
+  margin-top: 16%;
+}
+.school-divider2 {
+  border: 1px solid #464159;
+  margin-top: 1%;
+}
+.kingdom {
+  margin-top: 3%;
+  font-size: 1.1rem;
+}
+.final-break {
+  border: 1px solid #464159;
+  margin-top: 2%;
 }
