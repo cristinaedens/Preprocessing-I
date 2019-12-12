@@ -133,9 +133,10 @@ table {
 html,
 body {
   height: 100%;
+  margin: 0 auto;
 }
 .site-container {
-  width: 100%;
+  margin-left: 40%;
 }
 button {
   background-color: #393e46;
@@ -334,7 +335,7 @@ li {
   font-size: 1.2rem;
 }
 .school .school-name2 {
-  margin-left: 35%;
+  margin-left: 15%;
   font-size: 1.5rem;
   color: #464159;
 }
